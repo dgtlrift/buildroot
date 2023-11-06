@@ -26,6 +26,6 @@ jobs:
     - name: Run license info
       run: make legal-info
 
-    - name: Run documentation
-      run: make manual
+#    - name: Run documentation
+#      run: make manual
       

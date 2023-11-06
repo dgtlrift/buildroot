@@ -217,7 +217,6 @@ package/botan/0002-src-build-data-arch-superh.txt-add-sh4-eb-aeb.patch Upstream
 package/brickd/S70brickd Indent Shellcheck Variables
 package/bridge-utils/0001-fix-build-on-musl.patch Upstream
 package/brltty/0001-Fix-linking-error-on-mips64el.patch Upstream
-package/brltty/0002-shell-prologue-runProgramTerminationCommands-used-a-.patch Upstream
 package/brltty/S10brltty Indent Shellcheck Variables
 package/bsdiff/0001-Add-missing-header-for-u_char.patch Upstream
 package/bustle/0001-Makefile-fix-pcap-config-call.patch Upstream
@@ -663,7 +662,6 @@ package/libftdi1/0003-CMakeLists.txt-fix-static-build-with-libusb-and-lato.patch
 package/libfuse/0001-fix-aarch64-build.patch Upstream
 package/libfuse/0002-util-ulockmgr_server-c-conditionally-define-closefrom-fix-glibc-2-34.patch Upstream
 package/libgcrypt/0001-configure.ac-add-an-option-to-disable-tests.patch Upstream
-package/libgdiplus/0001-Build-unit-tests-only-when-enable-unit-tests-is-pass.patch Upstream
 package/libglfw/0001-Wayland-Remove-extra-cmake-modules-dependency.patch Upstream
 package/libglfw/0002-src-CMakeLists.txt-allow-override-of-wayland-pkgdata.patch Upstream
 package/libgpiod/0001-build-add-a-configure-switch-for-building-examples.patch Upstream
@@ -707,7 +705,6 @@ package/libmpeg2/0003-fix-arm-detection.patch Upstream
 package/libmpeg2/0004-fix-sparc.patch Upstream
 package/libnetfilter_conntrack/0001-conntrack-fix-build-with-kernel-5-15-and-musl.patch Upstream
 package/libnfc/0001-autotools-make-example-build-optional.patch Upstream
-package/libnfs/0001-Fix-include-sys-time.h.patch Upstream
 package/libnids/0001-libpcap-use-pkg-config.patch Upstream
 package/libnl/0001-Add-musl-workaround-to-the-libc-compat.h-copy.patch Upstream
 package/libnss/0001-Bug-1801182-Allow-overriding-OS_ARCH-OS_TEST-and-OS_.patch Upstream
@@ -723,7 +720,6 @@ package/liboping/0003-Fix-compile-break-with-GCC-7-buffer-overflow-with-snprintf
 package/liboping/0004-Fix-compile-error-on-GCC-7.patch Upstream
 package/liboping/0005-src-oping.c-always-use-s-style-format-for-printf-sty.patch Upstream
 package/libp11/0001-src-p11_attr.c-fix-build-with-gcc-4.8.patch Upstream
-package/libpam-tacplus/0001-Add-an-option-to-disable-Werror.patch Upstream
 package/libplatform/0001-cmake-require-c-11-as-the-minimum-standard.patch Upstream
 package/libpng/0001-Disable-pngfix-and-png-fix-itxt.patch Upstream
 package/libpthsem/0001-fix-build-on-linux-3.x-host.patch Upstream
@@ -815,7 +811,6 @@ package/lshw/0001-solve-Compile-error-when-g-version-is-less-than-5.patch Upstre
 package/ltrace/0001-arm-plt.patch Upstream
 package/ltrace/0002-sparc-add-missing-library.h-include.patch Upstream
 package/ltrace/0003-configure.ac-fix-autoreconf-with-autoconf-2.70.patch Upstream
-package/ltris/0001-fix-build-with-gcc-4.8.patch Upstream
 package/lttng-babeltrace/0001-tests-lib-Makefile.am-remove-unneeded-static-flag.patch Upstream
 package/lttng-babeltrace/0002-configure.ac-fix-popt-static-build.patch Upstream
 package/lttng-libust/0001-configure.ac-add-disable-tests.patch Upstream
